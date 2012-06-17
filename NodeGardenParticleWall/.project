@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>NodeGardenParticleWall</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.powerflasher.fdt.core.FlashBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.powerflasher.fdt.core.FlashNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>greensock.swc</name>
+			<type>1</type>
+			<locationURI>greensock</locationURI>
+		</link>
+		<link>
+			<name>minimalComps.swc</name>
+			<type>1</type>
+			<locationURI>minimalComps</locationURI>
+		</link>
+		<link>
+			<name>signals.swc</name>
+			<type>1</type>
+			<locationURI>signals</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

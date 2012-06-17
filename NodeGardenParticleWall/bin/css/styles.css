@@ -1,0 +1,22 @@
+
+html, body, #containerA, #containerB { 
+	width:100%; 
+	height:100%; 
+	
+}
+body { 
+	margin:0; 
+	padding:0; 
+	overflow:hidden; 
+}
+
+.main-content {
+	width: 100%;
+	height: 100%;
+	background: #000000;
+}
+
+object {
+	width: 100%;
+	height: 100%;
+}
